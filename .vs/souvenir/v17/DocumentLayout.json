@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\stanislav 11d\\souvenir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Souvenirs_11d/True/SqlTable/dbo.SouvenirTypes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Souvenirs_11d/True/SqlTable/dbo.Souvenirs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|c:\\stanislav 11d\\souvenir\\souvenir\\migrations\\202406060749161_purva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:souvenir\\migrations\\202406060749161_purva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|c:\\stanislav 11d\\souvenir\\souvenir\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:souvenir\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|c:\\stanislav 11d\\souvenir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|C:\\stanislav 11d\\souvenir\\souvenir\\model\\souvenirtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:souvenir\\model\\souvenirtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|c:\\stanislav 11d\\souvenir\\souvenir\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:souvenir\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|c:\\stanislav 11d\\souvenir\\souvenir\\controller\\souvenirtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:souvenir\\controller\\souvenirtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|C:\\stanislav 11d\\souvenir\\souvenir\\model\\souvenir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:souvenir\\model\\souvenir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|C:\\stanislav 11d\\souvenir\\souvenir\\controller\\souvenircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:souvenir\\controller\\souvenircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|C:\\stanislav 11d\\souvenir\\souvenir\\model\\souvenirdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:souvenir\\model\\souvenirdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|C:\\stanislav 11d\\souvenir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|C:\\stanislav 11d\\souvenir\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9627B9-37AB-4938-A534-56E345C87A5D}|souvenir\\souvenir.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Souvenir.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\souvenir\\Model\\Souvenir.cs",
+              "RelativeDocumentMoniker": "souvenir\\Model\\Souvenir.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\souvenir\\Model\\Souvenir.cs",
+              "RelativeToolTip": "souvenir\\Model\\Souvenir.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:09:43.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.SouvenirTypes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Souvenirs_11d/True/SqlTable/dbo.SouvenirTypes.sql",
+              "ToolTip": "dbo.SouvenirTypes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-06T07:51:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Souvenirs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Souvenirs_11d/True/SqlTable/dbo.Souvenirs.sql",
+              "ToolTip": "dbo.Souvenirs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-06T07:50:59.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202406060749161_purva.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\souvenir\\Migrations\\202406060749161_purva.cs",
+              "RelativeDocumentMoniker": "souvenir\\Migrations\\202406060749161_purva.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\souvenir\\Migrations\\202406060749161_purva.cs",
+              "RelativeToolTip": "souvenir\\Migrations\\202406060749161_purva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:49:29.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\souvenir\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "souvenir\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\souvenir\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "souvenir\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:48:27.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SouvenirTypeController.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\souvenir\\Controller\\SouvenirTypeController.cs",
+              "RelativeDocumentMoniker": "souvenir\\Controller\\SouvenirTypeController.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\souvenir\\Controller\\SouvenirTypeController.cs",
+              "RelativeToolTip": "souvenir\\Controller\\SouvenirTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:40:36.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\souvenir\\App.config",
+              "RelativeDocumentMoniker": "souvenir\\App.config",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\souvenir\\App.config",
+              "RelativeToolTip": "souvenir\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T07:32:00.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SouvenirController.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\souvenir\\Controller\\SouvenirController.cs",
+              "RelativeDocumentMoniker": "souvenir\\Controller\\SouvenirController.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\souvenir\\Controller\\SouvenirController.cs",
+              "RelativeToolTip": "souvenir\\Controller\\SouvenirController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:17:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAQwKAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:27:53.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SouvenirType.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\souvenir\\Model\\SouvenirType.cs",
+              "RelativeDocumentMoniker": "souvenir\\Model\\SouvenirType.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\souvenir\\Model\\SouvenirType.cs",
+              "RelativeToolTip": "souvenir\\Model\\SouvenirType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:10:16.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SouvenirDbContext.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\souvenir\\Model\\SouvenirDbContext.cs",
+              "RelativeDocumentMoniker": "souvenir\\Model\\SouvenirDbContext.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\souvenir\\Model\\SouvenirDbContext.cs",
+              "RelativeToolTip": "souvenir\\Model\\SouvenirDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:26:13.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:04:06.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\stanislav 11d\\souvenir\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\stanislav 11d\\souvenir\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:08:32.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\stanislav 11d\souvenir\souvenir\bin\Debug\souvenir.exe.config
+C:\stanislav 11d\souvenir\souvenir\bin\Debug\souvenir.exe
+C:\stanislav 11d\souvenir\souvenir\bin\Debug\souvenir.pdb
+C:\stanislav 11d\souvenir\souvenir\bin\Debug\EntityFramework.dll
+C:\stanislav 11d\souvenir\souvenir\bin\Debug\EntityFramework.SqlServer.dll
+C:\stanislav 11d\souvenir\souvenir\bin\Debug\EntityFramework.xml
+C:\stanislav 11d\souvenir\souvenir\bin\Debug\EntityFramework.SqlServer.xml
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.csproj.AssemblyReference.cache
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.Properties.Resources.resources
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.csproj.GenerateResource.cache
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.csproj.CoreCompileInputs.cache
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.csproj.Up2Date
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.exe
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.pdb
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.Form1.resources
+C:\stanislav 11d\souvenir\souvenir\obj\Debug\souvenir.Migrations.purva.resources
